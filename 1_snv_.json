@@ -22,6 +22,17 @@
   "btext": ""
 
  },
+  {
+  "isPub": true,
+  "img":"",
+  "text_fr": "",
+  "text_en": "",
+  "audio": "",
+  "video": "",
+   "link": "",
+  "btext": ""
+
+ },
  {
   "isPub": false,
   "img":"",
@@ -94,6 +105,17 @@
   "text_fr": "Vous avez l'occasion de faire de bons petits plats et cela entretient votre joie de vivre. Vous sortez du lot ! Soyez positive et dynamique.",
   "text_en": "Taurus, the stars are on your side today! You measure and appreciate the affection your partner has for you. Single, you are looking for the thrills of the beginning: flirtation and cute little messages. Be careful, however, not to ignite yourself.",
   "audio": "https://cheikhgueye.github.io/snp.github.io/snv164.mp3",
+  "video": "",
+   "link": "",
+  "btext": ""
+
+ },
+  {
+  "isPub": true,
+  "img":"",
+  "text_fr": "",
+  "text_en": "",
+  "audio": "",
   "video": "",
    "link": "",
   "btext": ""
