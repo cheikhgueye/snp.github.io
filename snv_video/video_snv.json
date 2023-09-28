@@ -1,24 +1,7 @@
 
 
 [
- {
-         "auteur": "Simb",
-         "categorie": "Viral",
-         "video": "https://www.youtube.com/shorts/Bx1NZxayU7M",
-         "localite": "Dakar",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-  {
-         "auteur": "Simb",
-         "categorie": "Viral",
-         "video": "https://www.youtube.com/shorts/zMTpnF7ekRI",
-         "localite": "Dakar",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
+
    {
          "auteur": "Simb",
          "categorie": "Viral",
