@@ -2,7 +2,11 @@
 
 [
     {
-       "video": "https://cheikhgueye.github.io/snp.github.io/snv_video/v1.mp4",
+         "auteur": "Cheikh gueye",
+         "categorie": "Viral",
+         "video": "https://www.youtube.com/watch?v=qxllVDkhqbo",
+         "localite": "Dakar",
+          "vote":0
     }
 
    
