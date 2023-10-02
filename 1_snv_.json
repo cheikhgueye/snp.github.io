@@ -11,17 +11,7 @@
   "btext": ""
 
  },
-  {
-  "isPub": true,
-  "img":"",
-  "text_fr": "",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
 
- },
  {
   "isPub": false,
   "img":"",
@@ -51,6 +41,17 @@
   "text_fr": "Si vous avez des enfants, vous arrivez à trouver l'équilibre idéal entre autorité et lâcher-prise.",
   "text_en": "Staying structured isn't easy today: try to save the most difficult tasks for a better time.",
   "audio": "https://cheikhgueye.github.io/snp.github.io/snv_4.mp3",
+  "video": "",
+   "link": "",
+  "btext": ""
+
+ },
+   {
+  "isPub": true,
+  "img":"",
+  "text_fr": "",
+  "text_en": "",
+  "audio": "",
   "video": "",
    "link": "",
   "btext": ""
