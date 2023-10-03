@@ -3,12 +3,12 @@
     "menu1":"Make up",
     "isOpen": false,
     "datefin": "10/10/2023",
-    "titre": "Challenge Make up #1",
+    "titre": "Make up #1",
     "subtitre": "",
     "tel":"+221703053924",
     "action":"Participer",
     "msg":"Bonjour je veux participer",
-    "candidater":true,
+    "candidater":false,
     "img":"https://www.institut-diva.ch/images/blog/e97f6effc030ed729dfc3d4a1fdb104514b7ccf0.jpeg"
   }
 ]
