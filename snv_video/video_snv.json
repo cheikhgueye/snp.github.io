@@ -3,78 +3,15 @@
 [
 
    {
-         "auteur": "Make up",
+         "auteur": "Faynara",
          "categorie": "Viral",
-         "video": "https://www.youtube.com/watch?v=XEo9TF71RTk",
+         "video": "https://www.youtube.com/watch?v=jbwaBn4lfRo",
          "localite": "Dakar",
           "link":"",
           "vote":0,
            "isLive":true
-    },
-    {
-         "auteur": "Make up",
-         "categorie": "Viral",
-         "video": "https://www.youtube.com/watch?v=q97tf7BnLW0",
-         "localite": "Dakar",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-   {
-         "auteur": "Make up",
-         "categorie": "Viral",
-         "video": "https://www.youtube.com/watch?v=VllcgvRdedo",
-         "localite": "Dakar",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-  {
-         "auteur": "Make up",
-         "categorie": "Viral",
-         "video": "https://www.youtube.com/watch?v=x_kD3IUQpX0",
-         "localite": "Dakar",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-     {
-         "auteur": "Make up",
-         "categorie": "Viral",
-         "video": "https://www.youtube.com/shorts/DlX8xaVUh0g",
-         "localite": "Dakar",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-    {
-         "auteur": "Make up",
-         "categorie": "Viral",
-         "video": "https://www.youtube.com/shorts/uy8Ye5g1ALc",
-         "localite": "Dakar",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-    {
-         "auteur": "MAke up",
-         "categorie": "Viral",
-         "video": "https://www.youtube.com/watch?v=2lbWSoVNTNM",
-         "localite": "Dakar",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-      {
-         "auteur": "Make up",
-         "categorie": "Viral",
-         "video": "https://www.youtube.com/watch?v=GNVCE8ilR9k",
-         "localite": "Dakar",
-          "link":"",
-          "vote":0,
-           "isLive":false
     }
-
+   
 
 
 
