@@ -1,9 +1,5 @@
 [
-    {
-
-    "img": "https://i.ytimg.com/vi/KncFD11n9gA/maxresdefault.jpg",
-    "titre": "Gorée🇸🇳"
-  },
+   
   {
 
     "img": "https://discover-senegal.com/wp-content/uploads/2019/05/Monument_de_la_Renaissance_africaine2-2.jpg",
@@ -29,6 +25,11 @@
 
     "img": "https://i.pinimg.com/originals/77/93/11/779311eec1031d38118b09eaa7975bc6.jpg",
     "titre": "Saint Louis"
+  },
+     {
+
+    "img": "https://i.ytimg.com/vi/KncFD11n9gA/maxresdefault.jpg",
+    "titre": "Gorée🇸🇳"
   }
   
  
