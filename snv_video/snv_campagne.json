@@ -1,14 +1,14 @@
 [
   {
-    "menu1":"Actualités",
+    "menu1":"Concours",
     "isOpen": false,
-    "datefin": "",
-    "titre": "Actualités",
+    "datefin": "25/10/2023",
+    "titre": "Concours Make up",
     "subtitre": "🇸🇳",
     "tel":"+221703053924",
     "action":"Participer",
     "msg":"Bonjour je veux participer",
-    "candidater":false,
+    "candidater":true,
     "img":"https://www.institut-diva.ch/images/blog/e97f6effc030ed729dfc3d4a1fdb104514b7ccf0.jpeg"
   }
 ]
