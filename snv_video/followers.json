@@ -5,7 +5,9 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png",
     "speed": 60000,
     "desc":"test",
-    "ratio":0.5
+    "ratio":0.5,
+    "rateper1000":0.602
+     
 
   }
 ]
