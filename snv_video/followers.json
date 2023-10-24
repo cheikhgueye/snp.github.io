@@ -4,7 +4,7 @@
     "name": "Instagram followers",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png",
     "speed": 60000,
-     "rateper":3000.0,
+     "rateper":2500.0,
     "desc":"Abonnés Instagram | Maximum 3 millions | Réel | Travailler | Recharge 30D♻️ | 60 000/jour | INSTANTANÉ",
     "ratio":0.5,
     "rateper1000":0.602
@@ -20,6 +20,18 @@
     "desc":"Abonnés TikTok | Maximum 35 000 | Non-Chute | Réel et actif | Jamais échoué | 3-5K/jour | 0-60Min ⚡ |💧",
     "ratio":0.5,
     "rateper1000":3.705
+     
+
+  },
+  {
+    "id":663,
+    "name": "Facebook 𝐏𝐫𝐨𝗳𝐢𝐥𝐞 𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬",
+    "icon": "https://i.pinimg.com/originals/ce/d6/6e/ced66ecfc53814d71f8774789b55cc76.png",
+    "speed": 10000,
+     "rateper":3000.0,
+    "desc":"Facebook 𝐏𝐫𝐨𝗳𝐢𝐥𝐞 𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬 | 5K maximum | 𝗥𝗘𝗙𝗜𝗟𝗟 30D | 5k/jour | INSTANTANÉ",
+    "ratio":0.5,
+    "rateper1000":0.7066
      
 
   }
