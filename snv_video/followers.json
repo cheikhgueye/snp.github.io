@@ -10,5 +10,17 @@
     "rateper1000":0.602
      
 
+  },
+    {
+    "id": 4076,
+    "name": "TikTok Followers",
+    "icon": "https://cdn.pixabay.com/photo/2021/01/30/06/42/tiktok-5962992_960_720.png",
+    "speed": 35000,
+     "rateper":3000.0,
+    "desc":"Abonnés TikTok | Maximum 35 000 | Non-Chute | Réel et actif | Jamais échoué | 3-5K/jour | 0-60Min ⚡ |💧",
+    "ratio":0.5,
+    "rateper1000":3.705
+     
+
   }
 ]
