@@ -3,7 +3,7 @@
    "exchangeRate": 0.0016,
     "rateper":3000.0,
     "apikey":"a18150f1b70420c1763187e067592cf6",
-    "boost":false
+    "boost":true
   }
 
 ]
