@@ -3,37 +3,14 @@
 [
 
    {
-         "auteur": "Make up ",
-         "categorie": "Demo 1",
-         "video": "https://www.youtube.com/watch?v=FbCl8WGJqZs",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
-      {
-         "auteur": "Make up ",
-         "categorie": "Demo 2",
-         "video": "https://www.youtube.com/watch?v=VllcgvRdedo&t=11s",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
-    {
-         "auteur": "Make up ",
-         "categorie": "Demo 3",
-         "video": "https://www.youtube.com/watch?v=rfrlfIULoWc",
+         "auteur": "Devenir influenceur ",
+         "categorie": "Followers",
+         "video": "https://youtube.com/shorts/4x2t0ImEmiY?si=YEC2DziOJ-zvo7q8",
          "localite": "",
           "link":"",
           "vote":0,
            "isLive":true
     }
-
-
-   
-
-
 
    
  
