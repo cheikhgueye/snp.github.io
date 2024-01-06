@@ -59,17 +59,7 @@
   "btext": ""
 
  },
-   {
-  "isPub": true,
-  "img":"",
-  "text_fr": "",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
-
- },
+ 
  
  {
   "isPub": false,
@@ -156,6 +146,17 @@
   "text_fr": "La patience et les efforts sont récompensés même si les reconnaissances ne viennent pas immédiatement : restez appliquer.",
   "text_en": "Small annoyances may arise: you will have difficulty establishing your authority with your children, or frustrations with your parents may resurface.",
   "audio": "https://cheikhgueye.github.io/snp.github.io/snv_1.mp3",
+  "video": "",
+   "link": "",
+  "btext": ""
+
+ },
+   {
+  "isPub": true,
+  "img":"",
+  "text_fr": "",
+  "text_en": "",
+  "audio": "",
   "video": "",
    "link": "",
   "btext": ""
