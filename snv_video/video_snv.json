@@ -5,11 +5,21 @@
    {
          "auteur": "Devenir influenceur ",
          "categorie": "Followers",
+         "video": "https://youtube.com/shorts/2nIyM9PQbj8?si=bzTwEaKu6CnJ6o7F",
+         "localite": "",
+          "link":"",
+          "vote":0,
+           "isLive":false
+    },
+   
+   {
+         "auteur": "Devenir influenceur ",
+         "categorie": "Followers",
          "video": "https://www.youtube.com/watch?v=d8MLtOP50eo",
          "localite": "",
           "link":"",
           "vote":0,
-           "isLive":true
+           "isLive":false
     },
    {
          "auteur": "Devenir influenceur ",
@@ -18,7 +28,7 @@
          "localite": "",
           "link":"",
           "vote":0,
-           "isLive":true
+           "isLive":false
     },
 
   {
