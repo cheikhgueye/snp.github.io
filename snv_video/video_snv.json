@@ -10,6 +10,16 @@
           "vote":0,
            "isLive":true
     },
+    
+   {
+         "auteur": "Série - Baabel - Saison 1 - Episode 32 - VOSTFR",
+         "categorie": "Saison 1 - Episode 32 - VOSTFR",
+         "video": "https://www.youtube.com/watch?v=5TYG10j7B78",
+         "localite": "",
+          "link":"",
+          "vote":0,
+           "isLive":false
+    },
    
    {
          "auteur": "Comment utiliser l'application",
@@ -21,75 +31,6 @@
            "isLive":false
     },
    
-   {
-         "auteur": "Devenir influenceur ",
-         "categorie": "Followers",
-         "video": "https://www.youtube.com/watch?v=d8MLtOP50eo",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-   {
-         "auteur": "Devenir influenceur ",
-         "categorie": "Followers",
-         "video": "https://www.youtube.com/watch?v=0j-uZ0L_FK0",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-
-  {
-         "auteur": "Devenir influenceur ",
-         "categorie": "Followers",
-         "video": "https://www.youtube.com/watch?v=90py6mL9SNE",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
- {
-         "auteur": "Devenir influenceur ",
-         "categorie": "Followers",
-         "video": "https://www.youtube.com/watch?v=FO7yOj00xmo",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
-     
-
-{
-         "auteur": "Devenir influenceur ",
-         "categorie": "Followers",
-         "video": "https://www.youtube.com/watch?v=4FPl5-aDWug",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
-   
-    {
-         "auteur": "Devenir influenceur ",
-         "categorie": "Followers",
-         "video": "https://www.youtube.com/watch?v=H1qd2UaPRF0",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
-
-
-   {
-         "auteur": "Devenir influenceur ",
-         "categorie": "Followers",
-         "video": "https://www.youtube.com/watch?v=-CG8hceElJI",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    }
 
    
  
