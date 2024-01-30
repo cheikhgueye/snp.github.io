@@ -2,43 +2,7 @@
 
 [
 
-     {
-         "auteur": "Une Nonne Tombe Amoureuse De Son Élève (AMOUR TOXIQUE ET TRAHISON)",
-         "categorie": "Film",
-         "video": "https://www.youtube.com/watch?v=cR_9qnLThRg",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
-    {
-         "auteur": "faillites, échecs et mensonges exposés.",
-         "categorie": "LA FIN DES KARDASHIAN ?",
-         "video": "https://www.youtube.com/watch?v=xATJea0D-tA",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
-     {
-         "auteur": "LA TRISTE VÉRITÉ SUR KANYE WEST ET SA DESCENTE AUX ENFERS ",
-         "categorie": "(Adidas, Donald Trump, R.Kelly, LVMH…)",
-         "video": "https://www.youtube.com/watch?v=LrEiX7enXww",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
-    
-   {
-         "auteur": "Voiture À 1 $ Vs À 100 000 000 $",
-         "categorie": "MrBeast",
-         "video": "https://www.youtube.com/watch?v=KrLj6nc516A",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
+
    
    {
          "auteur": "Comment utiliser l'application",
