@@ -10,54 +10,17 @@
           "vote":0,
            "isLive":true
     },
-
-  {
-         "auteur": "soupou kandian dieune avec fruits de mer darra désoul",
-         "categorie": "Recette",
-         "video": "https://www.youtube.com/watch?v=EQ6fDlWiDwQ",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
- {
-         "auteur": "Mbakhalou saloum khéthiak et fruit de mer à ma façon",
-         "categorie": "Recette",
-         "video": "https://www.youtube.com/watch?v=iIsA1ML6drA",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
-  {
-         "auteur": "C’est bon bou simple té nékhe",
-         "categorie": "Recette",
-         "video": "https://www.youtube.com/watch?v=ETlvo6vhc90",
+     {
+         "auteur": "L'or de Ninki Nanka - Episode 1",
+         "categorie": "Série",
+         "video": "https://www.youtube.com/watch?v=YfUkLjuJyA4&list=PLDT-VnKtVYSeL1k6Urpyfac3iKoTjaYVD",
          "localite": "",
           "link":"",
           "vote":0,
            "isLive":true
     },
 
- {
-         "auteur": "feuilletés thon fromage en entrée pour korité",
-         "categorie": "Recette",
-         "video": "https://www.youtube.com/watch?v=8_HO6GZNIR8",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
-  {
-         "auteur": "sombi guerté de cuisa cuisine sénégalaise de Astou",
-         "categorie": "Recette",
-         "video": "https://www.youtube.com/watch?v=0rJnbQOBHns",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":true
-    },
- 
+
    
    {
          "auteur": "Comment utiliser l'application",
