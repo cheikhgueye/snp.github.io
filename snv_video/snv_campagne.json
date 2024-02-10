@@ -1,11 +1,11 @@
 [
   {
     "menu1":"Vidéos",
-     "menu2":"TikTok",
-    "dowloadYoutube":true,
+     "menu2":"Youtube",
+    "dowloadYoutube":false,
     "utiltitle":"Youtube",
     "utillink":"https://www.tiktok.com/",
-    "direct":true,
+    "direct":false,
     "link":"https://www.youtube.com/watch?v=j5JYub_iPBo",
      "directtitle":"direct",
     "isOpen": false,
