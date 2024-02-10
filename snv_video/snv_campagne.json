@@ -1,6 +1,7 @@
 [
   {
     "menu1":"Vidéos",
+     "menu2":"Youtube Download",
     "dowloadYoutube":true,
     "direct":true,
     "isOpen": false,
