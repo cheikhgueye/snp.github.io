@@ -5,7 +5,7 @@
     "dowloadYoutube":true,
     "utiltitle":"Youtube",
     "utillink":"https://www.tiktok.com/",
-    "direct":false,
+    "direct":true,
     "link":"https://www.youtube.com/watch?v=j5JYub_iPBo",
      "directtitle":"direct",
     "isOpen": false,
