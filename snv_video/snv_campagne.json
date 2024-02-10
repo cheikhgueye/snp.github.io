@@ -1,6 +1,8 @@
 [
   {
     "menu1":"Vidéos",
+    "dowloadYoutube":true,
+    "direct":true,
     "isOpen": false,
     "datefin": "",
     "titre": "",
