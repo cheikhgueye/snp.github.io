@@ -4,6 +4,8 @@
      "menu2":"Youtube Download",
     "dowloadYoutube":true,
     "direct":true,
+    "link":"https://www.google.fr/",
+     "directtitle":"direct",
     "isOpen": false,
     "datefin": "",
     "titre": "",
