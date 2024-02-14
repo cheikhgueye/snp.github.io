@@ -5,7 +5,7 @@
     "dowloadYoutube":false,
     "utiltitle":"Series",
     "utillink":"https://wookafr.eu/series",
-    "direct":true,
+    "direct":false,
     "link":"https://wookafr.eu/movies",
      "directtitle":"Films",
     "isOpen": false,
