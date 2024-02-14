@@ -2,7 +2,7 @@
   {
     "menu1":"Vidéos",
      "menu2":"Series",
-    "dowloadYoutube":true,
+    "dowloadYoutube":false,
     "utiltitle":"Series",
     "utillink":"https://wookafr.eu/series",
     "direct":true,
