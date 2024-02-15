@@ -25,17 +25,7 @@
   "btext": ""
 
  },
-  {
-  "isPub": true,
-  "img":"",
-  "text_fr": "",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
-
- },
+ 
 
  {
   "isPub": false,
@@ -83,17 +73,7 @@
   "btext": ""
 
  },
-   {
-  "isPub": true,
-  "img":"https://lempreintedigitale.com/wp-content/uploads/2021/01/comptes-reseaux-sociaux-les-plus-populaires-social-media.jpeg",
-  "text_fr": "",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
-
- },
+ 
  {
   "isPub": false,
   "img":"",
@@ -151,17 +131,7 @@
   "btext": ""
 
  },
-   {
-  "isPub": true,
-  "img":"",
-  "text_fr": "",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
-
- },
+  
  
  {
   "isPub": false,
@@ -174,17 +144,7 @@
   "btext": ""
 
  },
-  {
-  "isPub": true,
-  "img":"",
-  "text_fr": "",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
-
- },
+ 
   {
   "isPub": false,
   "img":"",
@@ -197,29 +157,7 @@
   "btext": ""
 
  },
-  {
-  "isPub": true,
-  "img":"",
-  "text_fr": "",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
-
- },
-  {
-  "isPub": true,
-  "img":"",
-  "text_fr": "",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
-
- }
-
+ 
   
  
  
