@@ -4,10 +4,10 @@
     "android2":true,
     "menu1":"Vidéos",
      "menu2":"Series",
-    "dowloadYoutube":true,
+    "dowloadYoutube":false,
     "utiltitle":"Series",
     "utillink":"https://wookafr.eu/series",
-    "direct":true,
+    "direct":false,
     "link":"https://wookafr.eu/movies",
      "directtitle":"Films",
     "isOpen": false,
@@ -19,7 +19,7 @@
     "msg":"",
     "candidater":false,
     "img":"https://www.institut-diva.ch/images/blog/e97f6effc030ed729dfc3d4a1fdb104514b7ccf0.jpeg",
-    "canPub":true,
+    "canPub":false,
      "canPubAndroid":true
   }
 ]
