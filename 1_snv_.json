@@ -26,18 +26,6 @@
 
  },
  
-
- {
-  "isPub": false,
-  "img":"",
-  "text_fr": "La période est propice pour engager des actions afin de se libérer des mauvaises habitudes.",
-  "text_en": "You manage to concentrate your patience and your efforts to achieve your goals, your sporting practice will benefit. You are in good shape, but don't forget to pay attention to your lifestyle. You benefit from excellent morale and physical tone, which allows you to approach this day with good omens.",
-  "audio": "https://cheikhgueye.github.io/snp.github.io/snv185.mp3",
-  "video": "",
-   "link": "",
-  "btext": ""
-
- },
   {
   "isPub": true,
   "img":"",
@@ -49,6 +37,18 @@
   "btext": ""
 
  },
+ {
+  "isPub": false,
+  "img":"",
+  "text_fr": "La période est propice pour engager des actions afin de se libérer des mauvaises habitudes.",
+  "text_en": "You manage to concentrate your patience and your efforts to achieve your goals, your sporting practice will benefit. You are in good shape, but don't forget to pay attention to your lifestyle. You benefit from excellent morale and physical tone, which allows you to approach this day with good omens.",
+  "audio": "https://cheikhgueye.github.io/snp.github.io/snv185.mp3",
+  "video": "",
+   "link": "",
+  "btext": ""
+
+ },
+
  {
   "isPub": false,
   "img":"",
@@ -96,6 +96,17 @@
   "btext": ""
 
  },
+   {
+  "isPub": true,
+  "img":"",
+  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
+  "text_en": "",
+  "audio": "",
+  "video": "",
+   "link": "dd",
+  "btext": ""
+
+ },
  {
   "isPub": false,
   "img":"",
@@ -107,23 +118,24 @@
   "btext": ""
 
  },
-   {
-  "isPub": true,
-  "img":"",
-  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
-
- },
+  
  {
   "isPub": false,
   "img":"",
   "text_fr": "Vous avez la possibilité de cuisiner sainement et cela entretient votre joie de vivre. Tant d'énergie sommeille en vous, vous auriez tout intérêt à vous inscrire à un club de sport. Vous bousculez vos habitudes, mais tentez de garder un semblant de routine.",
   "text_en": "The day is looking particularly good, luck seems to be smiling on you and everything is simpler! In Olympic form, you should enjoy this positive momentum, which could earn you some nice surprises. You shake up your habits, but try to maintain a semblance of routine.",
   "audio": "https://cheikhgueye.github.io/snp.github.io/snv191.mp3",
+  "video": "",
+   "link": "",
+  "btext": ""
+
+ },
+  {
+  "isPub": true,
+  "img":"",
+  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
+  "text_en": "",
+  "audio": "",
   "video": "",
    "link": "",
   "btext": ""
