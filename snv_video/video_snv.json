@@ -14,9 +14,18 @@
 ,
    
    {
-         "auteur": "L'or de Ninki Nanka - Episode 14",
+         "auteur": "L'or de Ninki Nanka - Episode 15",
          "categorie": "Série - ",
-         "video": "https://www.youtube.com/watch?v=VGR9VKfY8Bg",
+         "video": "https://www.youtube.com/watch?v=cIhoWDK5Xzg",
+         "localite": "",
+          "link":"",
+          "vote":0,
+           "isLive":false
+    },
+      {
+         "auteur": "L'or de Ninki Nanka - Episode 16",
+         "categorie": "Série - ",
+         "video": "https://www.youtube.com/watch?v=XXDNOTdtN3Q",
          "localite": "",
           "link":"",
           "vote":0,
