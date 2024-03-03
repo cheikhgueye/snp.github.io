@@ -7,7 +7,7 @@
     "dowloadYoutube":true,
     "utiltitle":"Series & Films",
     "utillink":"https://wookafr.live",
-    "direct":true,
+    "direct":false,
     "link":"https://wookafr.live/movies",
      "directtitle":"Films",
     "isOpen": false,
