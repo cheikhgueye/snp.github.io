@@ -4,7 +4,7 @@
     "android2":false,
     "menu1":"Vidéos",
      "menu2":"Films",
-    "dowloadYoutube":false,
+    "dowloadYoutube":true,
     "utiltitle":"Films",
     "utillink":"https://wookafr.online",
     "direct":false,
