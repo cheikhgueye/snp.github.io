@@ -31,10 +31,11 @@
   "text_en": "",
   "audio": "",
   "video": "",
-   "link": "dd",
+   "link": "",
   "btext": ""
 
- },  
+ },
+ 
  {
   "isPub": false,
   "img":"",
@@ -107,17 +108,7 @@
   "btext": ""
 
  },
-   {
-  "isPub": true,
-  "img":"",
-  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "dd",
-  "btext": ""
-
- },
+  
  {
   "isPub": false,
   "img":"",
@@ -141,17 +132,7 @@
   "btext": ""
 
  },
-  {
-  "isPub": true,
-  "img":"",
-  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
 
- },
 
  {
   "isPub": false,
@@ -176,17 +157,7 @@
   "btext": ""
 
  },
-  {
-  "isPub": true,
-  "img":"",
-  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "dd",
-  "btext": ""
-
- },
+ 
   
  
  {
