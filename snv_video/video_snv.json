@@ -2,37 +2,7 @@
 
 [
 
-     
-     {
-         "auteur": "Mbaye Bercy - Intégralité",
-         "categorie": "Theatre",
-         "video": "https://www.youtube.com/watch?v=_mjll0i9y4w",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-
-     {
-         "auteur": "Groupe Electrogéne - L'intégrale",
-         "categorie": "Theatre",
-         "video": "https://www.youtube.com/watch?v=lW167J1ApYY",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-
-
-   {
-         "auteur": "Madame Brouette (FILM SENEGALAIS)",
-         "categorie": "Film",
-         "video": "https://www.youtube.com/watch?v=zSDgBFuRKG4",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
+  
 
    {
          "auteur": "Comment utiliser l'application",
