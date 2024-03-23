@@ -22,7 +22,7 @@
      "canPub":true,
      "canPubAndroid":true,
         "IosNoExam2":true,
-      "AndroidNoExam1": true
+      "AndroidNoExam1": false
   
    
   }
