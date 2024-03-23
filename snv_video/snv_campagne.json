@@ -2,8 +2,8 @@
   {
     "android1":true,
     "android2":false,
-    "menu1":"Films",
-     "menu2":"Videos",
+    "menu1":"Videos",
+     "menu2":"Films",
     "dowloadYoutube":true,
     "utiltitle":"Films.",
     "utillink":"https://wookafr-officiel.xyz",
