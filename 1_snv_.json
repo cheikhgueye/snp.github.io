@@ -74,6 +74,17 @@
   "btext": ""
 
  },
+   {
+  "isPub": true,
+  "img":"",
+  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
+  "text_en": "",
+  "audio": "",
+  "video": "",
+   "link": "",
+  "btext": ""
+
+ },
  
  {
   "isPub": false,
@@ -86,17 +97,7 @@
   "btext": ""
 
  },
-   {
-  "isPub": true,
-  "img":"",
-  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
-
- },
+ 
  
  {
   "isPub": false,
@@ -122,7 +123,17 @@
   "btext": ""
 
  },
-  
+   {
+  "isPub": true,
+  "img":"",
+  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
+  "text_en": "",
+  "audio": "",
+  "video": "",
+   "link": "",
+  "btext": ""
+
+ },
  {
   "isPub": false,
   "img":"",
@@ -134,17 +145,7 @@
   "btext": ""
 
  },
- {
-  "isPub": true,
-  "img":"",
-  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
 
- },
 
  {
   "isPub": false,
@@ -169,7 +170,17 @@
   "btext": ""
 
  },
- 
+  {
+  "isPub": true,
+  "img":"",
+  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
+  "text_en": "",
+  "audio": "",
+  "video": "",
+   "link": "dd",
+  "btext": ""
+
+ },
  
  {
   "isPub": false,
@@ -182,17 +193,7 @@
   "btext": ""
 
  },
-  {
-  "isPub": true,
-  "img":"",
-  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "dd",
-  "btext": ""
-
- },
+ 
   
  
   {
@@ -206,7 +207,22 @@
    "link": "",
   "btext": ""
 
+ },
+  {
+  "isPub": false,
+  "img":"",
+  "text_fr": "Vous avez des discussions à coeur ouvert très appréciables avec vos amis. Cet aspect du Soleil met en valeur votre personnalité authentique et optimiste : vous brillez.",
+  "text_en": "The simple pleasures in life give you the most joy: you enjoy a chat over a meal. Your sarcasm isn't to everyone's taste, but you don't care. You could live an original experience with friends.",
+  "audio": "https://cheikhgueye.github.io/snp.github.io/snv_96.mp3",
+  "video": "",
+   "link": "",
+  "btext": ""
+
  }
+ 
+
+ 
+ 
  
  
   
