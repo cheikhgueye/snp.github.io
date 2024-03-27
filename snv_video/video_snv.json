@@ -3,24 +3,7 @@
 [
 
 
-     {
-         "auteur": "ELECTION PRESIDENTIELLE DU 24 MARS 2024",
-         "categorie": "Direct",
-         "video": "https://www.youtube.com/watch?v=SO9X3c6jOO4",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
-    {
-         "auteur": "La Femme Roi Nouveau",
-         "categorie": "Film",
-         "video": "https://www.youtube.com/watch?v=w53nVrMsg-Y",
-         "localite": "",
-          "link":"",
-          "vote":0,
-           "isLive":false
-    },
+   
 
 
    {
