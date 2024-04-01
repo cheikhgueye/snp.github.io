@@ -1,12 +1,12 @@
 [
   {
-    "android1":false,
+    "android1":true,
     "android2":true,
     "menu1":"Videos",
      "menu2":"Horoscope",
-    "dowloadYoutube":false,
+    "dowloadYoutube":true,
     "utiltitle":"Films.",
-    "utillink":"https://www.20minutes.fr/horoscope/",
+    "utillink":"https://www.tiktok.com/foryou",
     "direct":true,
     "link":"https://www.20minutes.fr/horoscope/",
      "directtitle":"horoscope",
