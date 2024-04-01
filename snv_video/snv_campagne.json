@@ -1,12 +1,12 @@
 [
   {
-    "android1":false,
-    "android2":true,
+    "android1":true,
+    "android2":false,
     "menu1":"Videos",
      "menu2":"Films",
-    "dowloadYoutube":false,
+    "dowloadYoutube":true,
     "utiltitle":"Films.",
-    "utillink":"https://wookafr.world",
+    "utillink":"https://www.elle.fr/Astro/Horoscope/Quotidien"",
     "direct":true,
     "link":"https://www.elle.fr/Astro/Horoscope/Quotidien",
      "directtitle":"horoscope du jour",
