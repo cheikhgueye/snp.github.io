@@ -1,14 +1,14 @@
 [
   {
     "android1":false,
-    "android2":false,
+    "android2":true,
     "menu1":"Videos",
      "menu2":"Films",
     "dowloadYoutube":false,
     "utiltitle":"Films.",
     "utillink":"https://wookafr.world",
-    "direct":false,
-    "link":"https://wookafr.world",
+    "direct":true,
+    "link":"https://www.elle.fr/Astro/Horoscope/Quotidien",
      "directtitle":"Last Films",
     "isOpen": false,
     "datefin":"",
