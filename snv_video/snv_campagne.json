@@ -1,14 +1,14 @@
 [
   {
     "android1":false,
-    "android2":false,
+    "android2":true,
     "menu1":"Videos",
      "menu2":"Horoscope",
     "dowloadYoutube":false,
     "utiltitle":"Horoscope",
-    "utillink":"https://www.vogue.fr/astro/horoscope/",
-    "direct":false,
-    "link":"https://site.wookafr.wiki/",
+    "utillink":"https://streaming.wookafr.wiki/",
+    "direct":true,
+    "link":"https://streaming.wookafr.wiki/",
      "directtitle":"Films",
     "isOpen": false,
     "datefin":"",
