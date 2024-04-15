@@ -1,12 +1,12 @@
 [
   {
-    "android1":false,
+    "android1":true,
     "android2":true,
     "menu1":"Videos",
      "menu2":"Horoscope",
-    "dowloadYoutube":false,
-    "utiltitle":"Horoscope",
-    "utillink":"https://wookafr.autos/",
+    "dowloadYoutube":true,
+    "utiltitle":"Quebec",
+    "utillink":"https://talentmontreal.com/fr/evenements/jq-senegal-2024",
     "direct":true,
     "link":"https://wookafr.autos/",
      "directtitle":"Films",
