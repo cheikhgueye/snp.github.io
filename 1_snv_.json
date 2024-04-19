@@ -116,17 +116,7 @@
   "btext": ""
 
  },
-  {
-  "isPub": true,
-  "img":"https://www.amicalesppdijon.fr/80-large_default/voyage-canada.jpg",
-  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
 
- },
   
  {
   "isPub": false,
@@ -134,6 +124,17 @@
   "text_fr": "Une sieste vous aidera à faire le plein de force en cas de fatigue aujourd'hui, mais vous vous sentez en forme. Vous avez une vitalité incroyable, et êtes sur tous les fronts ! Vous devrez néanmoins veiller à ne pas trop en demander à votre corps. C'est un moment favorable pour envisager un challenge sportif, vous êtes en très grande forme et avez un mental à toutes épreuves.",
   "text_en": "The day is looking particularly good, luck seems to be smiling on you and everything is simpler! In Olympic form, you should enjoy this positive momentum, which could earn you some nice surprises. You shake up your habits, but try to maintain a semblance of routine.",
   "audio": "https://cheikhgueye.github.io/snp.github.io/snv_9.mp3",
+  "video": "",
+   "link": "",
+  "btext": ""
+
+ },
+   {
+  "isPub": true,
+  "img":"https://www.amicalesppdijon.fr/80-large_default/voyage-canada.jpg",
+  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
+  "text_en": "",
+  "audio": "",
   "video": "",
    "link": "",
   "btext": ""
@@ -178,7 +179,17 @@
 
  },
  
-  
+   {
+  "isPub": true,
+  "img":"",
+  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
+  "text_en": "",
+  "audio": "",
+  "video": "",
+   "link": "",
+  "btext": ""
+
+ }, 
  
   {
   "isPub": false,
@@ -192,17 +203,7 @@
   "btext": ""
 
  },
-  {
-  "isPub": true,
-  "img":"",
-  "text_fr": "Bélier, les astres sont dans votre camp aujourd'hui ",
-  "text_en": "",
-  "audio": "",
-  "video": "",
-   "link": "",
-  "btext": ""
 
- },
   {
   "isPub": false,
   "img":"https://www.amicalesppdijon.fr/80-large_default/voyage-canada.jpg",
