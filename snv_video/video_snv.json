@@ -1,6 +1,28 @@
 
 
 [
+     {
+         "auteur": "USA : ils sont salariés mais dorment dans la rue!",
+         "categorie": "#USA",
+         "video": "https://www.youtube.com/watch?v=6Ybckm-gfBc",
+         "localite": "",
+          "link":"",
+          "vote":0,
+           "isLive":false
+    }
+
+  ,
+     {
+         "auteur": "Les Dollars de la Fed: un papier précieux et une force de frappe des USA !",
+         "categorie": "#USA",
+         "video": "https://www.youtube.com/watch?v=XVLaeas4fYs",
+         "localite": "",
+          "link":"",
+          "vote":0,
+           "isLive":false
+    }
+
+  ,
    
       {
          "auteur": "Alerte Recrutement Canada : Inscription aux journées Québec en Cours",
