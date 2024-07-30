@@ -2,10 +2,10 @@
   {
     "android1":false,
     "android2":false,
-    "menu1":"Films",
-     "menu2":"Last Film",
+    "menu1":"Puzzle",
+     "menu2":"History",
     "dowloadYoutube":false,
-    "utiltitle":"Last Films",
+    "utiltitle":"History",
     "utillink":"https://wookafr.makeup/derniers-ajouts",
     "direct":false,
     "link":"https://wookafr.makeup/",
