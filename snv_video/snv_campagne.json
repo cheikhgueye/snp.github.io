@@ -1,13 +1,13 @@
 [
   {
     "android1":false,
-    "android2":false,
+    "android2":true,
     "menu1":"Puzzle",
      "menu2":"History",
     "dowloadYoutube":false,
     "utiltitle":"History",
-    "utillink":"https://wookafr.makeup/derniers-ajouts",
-    "direct":false,
+    "utillink":"https://cinehub.wf/",
+    "direct":true,
     "link":"https://wookafr.makeup/",
      "directtitle":"Films",
     "isOpen": false,
