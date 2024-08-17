@@ -4,7 +4,8 @@
          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu9miyBoH7bens4n4Sn2xK1HimUEGizBObIg&s",
          "libelle": "Adia diallo",
          "descr": "Adia diallo",
-         "call": "+221774262278"
+         "call": "+221774262278",
+         "button":"reserver"
         
         
   }
@@ -14,7 +15,8 @@
         "picture": "https://www.senenews.com/madame/wp-content/uploads/2022/06/adja-9.jpg",
          "libelle": "Adia diallo",
          "descr": "Adia diallo",
-         "call": "+221774262278"
+         "call": "+221774262278",
+             "button":"reserver"
   }
 
        ,
@@ -23,7 +25,8 @@
         "picture": "https://www.senenews.com/madame/wp-content/uploads/2022/06/adja-9.jpg",
          "libelle": "Adia diallo",
          "descr": "Adia diallo",
-         "call": "+221774262278"
+         "call": "+221774262278",
+             "button":"reserver"
   }
    
     
