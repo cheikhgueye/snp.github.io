@@ -1,7 +1,7 @@
 [
   {
     "android1":true,
-    "android2":true,
+    "android2":false,
     "menu1":"HVS",
      "menu2":"Films",
     "dowloadYoutube":true,
