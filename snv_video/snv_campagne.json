@@ -7,7 +7,7 @@
     "dowloadYoutube":true,
     "utiltitle":"Films",
     "utillink":"https://wakana.online/",
-    "direct":true,
+    "direct":false,
     "link":"https://wakana.online/",
      "directtitle":"Series",
     "isOpen": true,
