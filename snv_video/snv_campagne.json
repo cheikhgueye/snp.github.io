@@ -17,7 +17,7 @@
     "tel":"https://play.google.com/store/apps/details?id=com.wakana.oscar",
     "action":"Telecharger",
     "msg":"",
-    "candidater":false,
+    "candidater":true,
     "img":"https://i.etsystatic.com/24604286/r/il/31cdb9/3402498325/il_570xN.3402498325_aal5.jpg",
      "canPub":true,
      "canPubAndroid":true,
